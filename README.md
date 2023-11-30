@@ -4,15 +4,13 @@ Este projeto é um exemplo de implementação de um sistema de rastreamento de a
 
 ## Estrutura do Projeto
 
-producer.py: Script que simula produtores de eventos.
-consumer.py: Script que atua como consumidor, processando e registrando os eventos.
+- producer.py: Script que simula produtores de eventos.
+- consumer.py: Script que atua como consumidor, processando e registrando os eventos.
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.9.6
 - docker
-
-## Configuração
 
 ## Configuração do Projeto e Execução com Ambiente Virtual (env)
 
